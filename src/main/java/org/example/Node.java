@@ -3,6 +3,9 @@ package org.example;
 import lombok.Getter;
 import lombok.Setter;
 
+import java.util.Iterator;
+import java.util.function.Consumer;
+
 
 /**
  * Реализация базовой структуры односвязного списка
